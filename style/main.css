@@ -1,0 +1,107 @@
+* {
+    box-sizing: border-box;
+}
+"body {
+    margin: 0;
+    background: pink;
+}"
+.block {
+    margin: 100px;
+    width: 1400px;
+    height: 590px;
+    background: #ffffff ;
+}
+.tittle {
+    margin-top: 107px;
+    margin-left: 498px;
+    width: 405px;
+    height: 26px;
+    text-align: center;
+}
+".block_2 {
+    
+    width: 64px;
+    height: 2px;
+    background: orangered;
+}"
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 36px;
+    color: black;
+}
+hr {
+    margin-top: 56px;
+    margin-left: 668px;
+    width: 64px;
+    height: 2px;
+    color: orangered;     
+}
+.paragraph {
+    margin-top: 32px;
+    margin-left: 520px;
+    width: 359px;
+    height: 14px;
+    text-align: center; 
+}
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: #86878B;   
+}
+.boxblock {
+    margin-left: 143px;
+}
+.hit_block {
+    margin-top: 94px;
+    width: 350px;
+    height: 197px;
+    display: inline-block;
+    text-align: center;
+}
+.circle {
+    margin-left: 140px;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    border: 2px solid orangered;
+}
+".icon1 {
+    margin-left: 25px;
+    margin-top: 21px;
+    width: 19px;
+    height: 28px;
+}"
+.icon {
+    text-align: center;
+}
+img {
+    font-size: 32px;
+    text-align: center;
+}
+".icon2 {
+    margin-left: 17px;
+    margin-top: 21px;
+    width: 35px;
+    height: 21px;
+}"
+".icon3 {
+    margin-left: 26px;
+    margin-top: 19px;
+    width: 17px;
+    height: 31px;
+}"
+.h2 {
+    margin-top: 29px;
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+}
+.fooder {
+    width: 350px;
+    height: 52px;
+    margin-top: 25px;
+    text-align: center;
+}
+span {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+}
